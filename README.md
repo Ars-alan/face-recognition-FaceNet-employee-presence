@@ -1,6 +1,6 @@
 An implementation of the paper - "Face Recognition System using Facenet Algorithm for Employee Presence" by Ferry Cahyono  et al. 2020
 
-#Versions 
+# Versions 
 1) Python     - 3.8
 2) Tensorflow - 2.5.0
 3) Keras      - 2.4.3 
