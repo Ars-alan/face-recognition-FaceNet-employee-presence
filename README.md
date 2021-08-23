@@ -27,7 +27,7 @@ KomNet Face Images Dataset - https://data.mendeley.com/datasets/hsv83m5zbb/2 - 5
     Train images - 500 (10 per subject)
     Test images - 150 (3 per subject)
   
-For all the images in the created dataset, cropped face images were obtrained and saved using the Multi-task Cascaded Convolutional Network (MTCNN) package in Keras.  
+For all the images in the created dataset, cropped face images were obtained and saved using the Multi-task Cascaded Convolutional Network (MTCNN) package in Keras.  
 'sample_data' consists of the first ten subjects of the created dataset.
 
 # Architecture
