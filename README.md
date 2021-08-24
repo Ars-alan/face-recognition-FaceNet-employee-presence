@@ -32,7 +32,7 @@ For all the images in the created dataset, cropped face images were obtained and
 
 # Architecture
 FaceNet was used to obtain feature vectors of the face images followed by Support Vector Machine (SVM) to classify the feature vectors by subjects.  
-FaceNet weights can be obtain here: https://github.com/nyoki-mtl/keras-facenet
+FaceNet weights can be obtained here: https://drive.google.com/drive/folders/1vCWyI_M3KcEuOF2yuksS24bzSmPrj6VW?usp=sharing
 
 # Results
 ## Classification Accuracy of 100% was obtained on the dataset of 209 subjects.  
